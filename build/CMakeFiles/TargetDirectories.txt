@@ -1,0 +1,5 @@
+/home/ksb11/GlobalOptimization/GlobalOpt/bin/CMakeFiles/GARUN.dir
+/home/ksb11/GlobalOptimization/GlobalOpt/build/src/LBFGSB/CMakeFiles/LBFGSB.dir
+/home/ksb11/GlobalOptimization/GlobalOpt/lib/CMakeFiles/OBJ.dir
+/home/ksb11/GlobalOptimization/GlobalOpt/build/Benchmarks/ACSTEM/CMakeFiles/STATIC.dir
+/home/ksb11/GlobalOptimization/GlobalOpt/build/CMakeFiles/distclean.dir

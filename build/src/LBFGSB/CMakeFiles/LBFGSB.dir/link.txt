@@ -1,0 +1,2 @@
+/usr/bin/ar cr libLBFGSB.a  CMakeFiles/LBFGSB.dir/blas.f.o CMakeFiles/LBFGSB.dir/lbfgsb.f.o CMakeFiles/LBFGSB.dir/linpack.f.o CMakeFiles/LBFGSB.dir/timer.f.o
+/usr/bin/ranlib libLBFGSB.a

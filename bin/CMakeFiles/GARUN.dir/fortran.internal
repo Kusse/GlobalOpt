@@ -1,0 +1,9 @@
+# The fortran modules provided by this target.
+provides
+ commons
+ comparator
+ ga_params
+ ga_population
+ modhess
+ mylbfgsb
+ qmodule

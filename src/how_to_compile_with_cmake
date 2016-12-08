@@ -1,0 +1,3 @@
+cmake -D CMAKE_FC_COMPILER="/share/apps/gcc/4.9.1/bin/gfortran" ..
+cmake -D CMAKE_Fortran_COMPILER="/share/apps/gcc/4.9.1/bin/gfortran" ..
+
