@@ -1,0 +1,617 @@
+
+************ Bond Indices Of EACH Atom ************
+Atom:      1 (CNtag=6)
+	Nbor:     20	(211) Pair
+	Nbor:      6	(200) Pair
+	Nbor:     53	(311) Pair
+	Nbor:     27	(421) Pair
+	Nbor:     38	(211) Pair
+	Nbor:     49	(311) Pair
+***
+
+Atom:      2 (CNtag=8)
+	Nbor:     41	(422) Pair
+	Nbor:      7	(311) Pair
+	Nbor:     16	(311) Pair
+	Nbor:     24	(311) Pair
+	Nbor:     37	(422) Pair
+	Nbor:     55	(311) Pair
+	Nbor:     23	(322) Pair
+	Nbor:     39	(322) Pair
+***
+
+Atom:      3 (CNtag=12)
+	Nbor:     26	(422) Pair
+	Nbor:     54	(555) Pair
+	Nbor:     18	(422) Pair
+	Nbor:     36	(422) Pair
+	Nbor:     51	(422) Pair
+	Nbor:      5	(555) Pair
+	Nbor:      8	(422) Pair
+	Nbor:     40	(422) Pair
+	Nbor:     33	(422) Pair
+	Nbor:     47	(422) Pair
+	Nbor:     37	(422) Pair
+	Nbor:     32	(422) Pair
+***
+
+Atom:      4 (CNtag=7)
+	Nbor:     26	(200) Pair
+	Nbor:     17	(311) Pair
+	Nbor:     35	(200) Pair
+	Nbor:     33	(311) Pair
+	Nbor:     46	(311) Pair
+	Nbor:     47	(421) Pair
+	Nbor:     51	(311) Pair
+***
+
+Atom:      5 (CNtag=6)
+	Nbor:     26	(555) Pair
+	Nbor:      3	(322) Pair
+	Nbor:     36	(322) Pair
+	Nbor:     33	(322) Pair
+	Nbor:      8	(322) Pair
+	Nbor:     40	(322) Pair
+***
+
+Atom:      6 (CNtag=7)
+	Nbor:     53	(200) Pair
+	Nbor:      1	(311) Pair
+	Nbor:     49	(200) Pair
+	Nbor:     19	(433) Pair
+	Nbor:     21	(311) Pair
+	Nbor:     50	(322) Pair
+	Nbor:     52	(322) Pair
+***
+
+Atom:      7 (CNtag=8)
+	Nbor:     38	(311) Pair
+	Nbor:     41	(311) Pair
+	Nbor:     49	(422) Pair
+	Nbor:     16	(311) Pair
+	Nbor:     32	(311) Pair
+	Nbor:     42	(422) Pair
+	Nbor:      2	(322) Pair
+	Nbor:     39	(322) Pair
+***
+
+Atom:      8 (CNtag=8)
+	Nbor:      3	(422) Pair
+	Nbor:      5	(322) Pair
+	Nbor:      9	(311) Pair
+	Nbor:     16	(311) Pair
+	Nbor:     40	(311) Pair
+	Nbor:     33	(311) Pair
+	Nbor:     23	(322) Pair
+	Nbor:     37	(422) Pair
+***
+
+Atom:      9 (CNtag=8)
+	Nbor:     46	(311) Pair
+	Nbor:     47	(322) Pair
+	Nbor:      8	(422) Pair
+	Nbor:     33	(311) Pair
+	Nbor:     23	(322) Pair
+	Nbor:     12	(311) Pair
+	Nbor:     24	(311) Pair
+	Nbor:     37	(422) Pair
+***
+
+Atom:     10 (CNtag=9)
+	Nbor:     15	(311) Pair
+	Nbor:     20	(311) Pair
+	Nbor:     34	(311) Pair
+	Nbor:     30	(311) Pair
+	Nbor:     54	(421) Pair
+	Nbor:     18	(421) Pair
+	Nbor:     31	(311) Pair
+	Nbor:     27	(421) Pair
+	Nbor:     53	(311) Pair
+***
+
+Atom:     11 (CNtag=8)
+	Nbor:     13	(311) Pair
+	Nbor:     52	(322) Pair
+	Nbor:     19	(422) Pair
+	Nbor:     21	(311) Pair
+	Nbor:     43	(422) Pair
+	Nbor:     55	(311) Pair
+	Nbor:     45	(322) Pair
+	Nbor:     44	(311) Pair
+***
+
+Atom:     12 (CNtag=8)
+	Nbor:      9	(311) Pair
+	Nbor:     25	(311) Pair
+	Nbor:     46	(322) Pair
+	Nbor:     47	(422) Pair
+	Nbor:     44	(311) Pair
+	Nbor:     45	(322) Pair
+	Nbor:     43	(422) Pair
+	Nbor:     24	(311) Pair
+***
+
+Atom:     13 (CNtag=7)
+	Nbor:     29	(311) Pair
+	Nbor:     31	(311) Pair
+	Nbor:     44	(322) Pair
+	Nbor:     11	(200) Pair
+	Nbor:     19	(543) Pair
+	Nbor:     50	(322) Pair
+	Nbor:     52	(322) Pair
+***
+
+Atom:     14 (CNtag=6)
+	Nbor:     34	(211) Pair
+	Nbor:     22	(211) Pair
+	Nbor:     18	(543) Pair
+	Nbor:     36	(322) Pair
+	Nbor:     48	(322) Pair
+	Nbor:     28	(322) Pair
+***
+
+Atom:     15 (CNtag=6)
+	Nbor:     22	(311) Pair
+	Nbor:     18	(211) Pair
+	Nbor:     51	(421) Pair
+	Nbor:     10	(311) Pair
+	Nbor:     30	(200) Pair
+	Nbor:     34	(211) Pair
+***
+
+Atom:     16 (CNtag=8)
+	Nbor:      7	(311) Pair
+	Nbor:     32	(311) Pair
+	Nbor:     42	(311) Pair
+	Nbor:      8	(422) Pair
+	Nbor:     40	(322) Pair
+	Nbor:     23	(311) Pair
+	Nbor:      2	(322) Pair
+	Nbor:     37	(422) Pair
+***
+
+Atom:     17 (CNtag=7)
+	Nbor:     51	(311) Pair
+	Nbor:      4	(311) Pair
+	Nbor:     35	(200) Pair
+	Nbor:     25	(311) Pair
+	Nbor:     47	(421) Pair
+	Nbor:     29	(311) Pair
+	Nbor:     30	(200) Pair
+***
+
+Atom:     18 (CNtag=13)
+	Nbor:     15	(422) Pair
+	Nbor:     22	(421) Pair
+	Nbor:     34	(543) Pair
+	Nbor:     14	(421) Pair
+	Nbor:     10	(421) Pair
+	Nbor:     54	(421) Pair
+	Nbor:      3	(543) Pair
+	Nbor:     36	(422) Pair
+	Nbor:     51	(421) Pair
+	Nbor:     32	(543) Pair
+	Nbor:     28	(543) Pair
+	Nbor:     48	(433) Pair
+	Nbor:     27	(433) Pair
+***
+
+Atom:     19 (CNtag=13)
+	Nbor:     54	(433) Pair
+	Nbor:     13	(422) Pair
+	Nbor:     29	(543) Pair
+	Nbor:     31	(543) Pair
+	Nbor:      6	(433) Pair
+	Nbor:     53	(543) Pair
+	Nbor:     27	(422) Pair
+	Nbor:     41	(311) Pair
+	Nbor:     50	(422) Pair
+	Nbor:     52	(555) Pair
+	Nbor:     11	(555) Pair
+	Nbor:     21	(422) Pair
+	Nbor:     43	(422) Pair
+***
+
+Atom:     20 (CNtag=6)
+	Nbor:     34	(211) Pair
+	Nbor:     10	(311) Pair
+	Nbor:      1	(200) Pair
+	Nbor:     27	(422) Pair
+	Nbor:     28	(200) Pair
+	Nbor:     53	(322) Pair
+***
+
+Atom:     21 (CNtag=8)
+	Nbor:      6	(311) Pair
+	Nbor:     41	(311) Pair
+	Nbor:     49	(422) Pair
+	Nbor:     52	(422) Pair
+	Nbor:     11	(311) Pair
+	Nbor:     19	(322) Pair
+	Nbor:     55	(311) Pair
+	Nbor:     39	(322) Pair
+***
+
+Atom:     22 (CNtag=6)
+	Nbor:     15	(211) Pair
+	Nbor:     26	(211) Pair
+	Nbor:     18	(421) Pair
+	Nbor:     36	(200) Pair
+	Nbor:     51	(311) Pair
+	Nbor:     14	(311) Pair
+***
+
+Atom:     23 (CNtag=6)
+	Nbor:      9	(322) Pair
+	Nbor:     16	(322) Pair
+	Nbor:      8	(322) Pair
+	Nbor:      2	(322) Pair
+	Nbor:     24	(322) Pair
+	Nbor:     37	(555) Pair
+***
+
+Atom:     24 (CNtag=8)
+	Nbor:      9	(311) Pair
+	Nbor:     43	(311) Pair
+	Nbor:      2	(311) Pair
+	Nbor:     37	(322) Pair
+	Nbor:     55	(422) Pair
+	Nbor:     23	(422) Pair
+	Nbor:     12	(311) Pair
+	Nbor:     45	(322) Pair
+***
+
+Atom:     25 (CNtag=7)
+	Nbor:     17	(311) Pair
+	Nbor:     35	(311) Pair
+	Nbor:     29	(200) Pair
+	Nbor:     46	(311) Pair
+	Nbor:     47	(311) Pair
+	Nbor:     12	(421) Pair
+	Nbor:     44	(200) Pair
+***
+
+Atom:     26 (CNtag=7)
+	Nbor:     22	(422) Pair
+	Nbor:      5	(200) Pair
+	Nbor:     33	(322) Pair
+	Nbor:      4	(200) Pair
+	Nbor:      3	(311) Pair
+	Nbor:     36	(311) Pair
+	Nbor:     51	(300) Pair
+***
+
+Atom:     27 (CNtag=12)
+	Nbor:     20	(421) Pair
+	Nbor:     10	(421) Pair
+	Nbor:     54	(433) Pair
+	Nbor:     28	(311) Pair
+	Nbor:     53	(422) Pair
+	Nbor:      1	(543) Pair
+	Nbor:     38	(422) Pair
+	Nbor:     41	(422) Pair
+	Nbor:     49	(421) Pair
+	Nbor:     18	(422) Pair
+	Nbor:     32	(311) Pair
+	Nbor:     19	(543) Pair
+***
+
+Atom:     28 (CNtag=8)
+	Nbor:     20	(322) Pair
+	Nbor:     34	(543) Pair
+	Nbor:     14	(200) Pair
+	Nbor:     48	(422) Pair
+	Nbor:     18	(311) Pair
+	Nbor:     32	(322) Pair
+	Nbor:     27	(433) Pair
+	Nbor:     38	(211) Pair
+***
+
+Atom:     29 (CNtag=10)
+	Nbor:     17	(311) Pair
+	Nbor:     30	(311) Pair
+	Nbor:     54	(433) Pair
+	Nbor:     13	(311) Pair
+	Nbor:     31	(311) Pair
+	Nbor:     25	(543) Pair
+	Nbor:     47	(433) Pair
+	Nbor:     44	(421) Pair
+	Nbor:     19	(300) Pair
+	Nbor:     43	(422) Pair
+***
+
+Atom:     30 (CNtag=7)
+	Nbor:     15	(311) Pair
+	Nbor:     10	(200) Pair
+	Nbor:     54	(200) Pair
+	Nbor:     51	(311) Pair
+	Nbor:     17	(422) Pair
+	Nbor:     29	(300) Pair
+	Nbor:     31	(322) Pair
+***
+
+Atom:     31 (CNtag=8)
+	Nbor:     10	(311) Pair
+	Nbor:     30	(322) Pair
+	Nbor:     54	(543) Pair
+	Nbor:     13	(433) Pair
+	Nbor:     29	(322) Pair
+	Nbor:     19	(433) Pair
+	Nbor:     53	(311) Pair
+	Nbor:     50	(322) Pair
+***
+
+Atom:     32 (CNtag=13)
+	Nbor:     54	(422) Pair
+	Nbor:      3	(422) Pair
+	Nbor:     18	(422) Pair
+	Nbor:     28	(543) Pair
+	Nbor:     48	(543) Pair
+	Nbor:     27	(433) Pair
+	Nbor:     38	(555) Pair
+	Nbor:     41	(421) Pair
+	Nbor:      7	(421) Pair
+	Nbor:     16	(422) Pair
+	Nbor:     42	(543) Pair
+	Nbor:     40	(422) Pair
+	Nbor:     37	(422) Pair
+***
+
+Atom:     33 (CNtag=8)
+	Nbor:     26	(422) Pair
+	Nbor:      4	(311) Pair
+	Nbor:      3	(322) Pair
+	Nbor:      5	(311) Pair
+	Nbor:      9	(311) Pair
+	Nbor:     46	(311) Pair
+	Nbor:     47	(322) Pair
+	Nbor:      8	(422) Pair
+***
+
+Atom:     34 (CNtag=6)
+	Nbor:     20	(311) Pair
+	Nbor:     14	(211) Pair
+	Nbor:     18	(211) Pair
+	Nbor:     15	(421) Pair
+	Nbor:     10	(200) Pair
+	Nbor:     28	(311) Pair
+***
+
+Atom:     35 (CNtag=4)
+	Nbor:     17	(200) Pair
+	Nbor:      4	(200) Pair
+	Nbor:     25	(200) Pair
+	Nbor:     46	(200) Pair
+***
+
+Atom:     36 (CNtag=8)
+	Nbor:     22	(422) Pair
+	Nbor:     26	(322) Pair
+	Nbor:     14	(322) Pair
+	Nbor:      3	(422) Pair
+	Nbor:     18	(311) Pair
+	Nbor:      5	(311) Pair
+	Nbor:     40	(311) Pair
+	Nbor:     48	(311) Pair
+***
+
+Atom:     37 (CNtag=12)
+	Nbor:     54	(422) Pair
+	Nbor:      3	(422) Pair
+	Nbor:      9	(422) Pair
+	Nbor:     47	(422) Pair
+	Nbor:     41	(422) Pair
+	Nbor:     16	(555) Pair
+	Nbor:     32	(422) Pair
+	Nbor:     43	(422) Pair
+	Nbor:      2	(555) Pair
+	Nbor:     24	(422) Pair
+	Nbor:      8	(422) Pair
+	Nbor:     23	(422) Pair
+***
+
+Atom:     38 (CNtag=7)
+	Nbor:     28	(211) Pair
+	Nbor:      1	(311) Pair
+	Nbor:     27	(421) Pair
+	Nbor:     49	(211) Pair
+	Nbor:      7	(421) Pair
+	Nbor:     32	(311) Pair
+	Nbor:     42	(211) Pair
+***
+
+Atom:     39 (CNtag=6)
+	Nbor:     41	(322) Pair
+	Nbor:     49	(322) Pair
+	Nbor:     21	(322) Pair
+	Nbor:      7	(555) Pair
+	Nbor:      2	(322) Pair
+	Nbor:     55	(322) Pair
+***
+
+Atom:     40 (CNtag=8)
+	Nbor:      3	(422) Pair
+	Nbor:     36	(322) Pair
+	Nbor:      5	(311) Pair
+	Nbor:     48	(311) Pair
+	Nbor:     16	(422) Pair
+	Nbor:     32	(311) Pair
+	Nbor:     42	(311) Pair
+	Nbor:      8	(322) Pair
+***
+
+Atom:     41 (CNtag=12)
+	Nbor:     54	(422) Pair
+	Nbor:     27	(422) Pair
+	Nbor:     49	(422) Pair
+	Nbor:      7	(422) Pair
+	Nbor:     32	(422) Pair
+	Nbor:      2	(422) Pair
+	Nbor:     37	(422) Pair
+	Nbor:     55	(555) Pair
+	Nbor:     19	(555) Pair
+	Nbor:     21	(422) Pair
+	Nbor:     43	(422) Pair
+	Nbor:     39	(422) Pair
+***
+
+Atom:     42 (CNtag=6)
+	Nbor:     48	(322) Pair
+	Nbor:     38	(322) Pair
+	Nbor:      7	(543) Pair
+	Nbor:     16	(211) Pair
+	Nbor:     32	(322) Pair
+	Nbor:     40	(211) Pair
+***
+
+Atom:     43 (CNtag=12)
+	Nbor:     54	(422) Pair
+	Nbor:     29	(422) Pair
+	Nbor:     41	(422) Pair
+	Nbor:     11	(422) Pair
+	Nbor:     19	(422) Pair
+	Nbor:     47	(422) Pair
+	Nbor:     24	(422) Pair
+	Nbor:     37	(555) Pair
+	Nbor:     55	(422) Pair
+	Nbor:     12	(422) Pair
+	Nbor:     45	(555) Pair
+	Nbor:     44	(422) Pair
+***
+
+Atom:     44 (CNtag=7)
+	Nbor:     13	(311) Pair
+	Nbor:     29	(311) Pair
+	Nbor:     25	(200) Pair
+	Nbor:     12	(200) Pair
+	Nbor:     45	(300) Pair
+	Nbor:     11	(422) Pair
+	Nbor:     43	(322) Pair
+***
+
+Atom:     45 (CNtag=6)
+	Nbor:     44	(322) Pair
+	Nbor:     12	(322) Pair
+	Nbor:     11	(322) Pair
+	Nbor:     43	(555) Pair
+	Nbor:     24	(322) Pair
+	Nbor:     55	(322) Pair
+***
+
+Atom:     46 (CNtag=7)
+	Nbor:      4	(311) Pair
+	Nbor:     35	(322) Pair
+	Nbor:      9	(322) Pair
+	Nbor:     25	(311) Pair
+	Nbor:     47	(322) Pair
+	Nbor:     33	(200) Pair
+	Nbor:     12	(543) Pair
+***
+
+Atom:     47 (CNtag=13)
+	Nbor:     17	(422) Pair
+	Nbor:      4	(421) Pair
+	Nbor:     54	(422) Pair
+	Nbor:      3	(422) Pair
+	Nbor:     51	(421) Pair
+	Nbor:     29	(421) Pair
+	Nbor:      9	(421) Pair
+	Nbor:     25	(422) Pair
+	Nbor:     46	(422) Pair
+	Nbor:     33	(422) Pair
+	Nbor:     12	(543) Pair
+	Nbor:     37	(543) Pair
+	Nbor:     43	(421) Pair
+***
+
+Atom:     48 (CNtag=7)
+	Nbor:     14	(322) Pair
+	Nbor:     28	(433) Pair
+	Nbor:     40	(322) Pair
+	Nbor:     18	(421) Pair
+	Nbor:     36	(311) Pair
+	Nbor:     32	(311) Pair
+	Nbor:     42	(211) Pair
+***
+
+Atom:     49 (CNtag=8)
+	Nbor:      6	(311) Pair
+	Nbor:      1	(200) Pair
+	Nbor:     27	(311) Pair
+	Nbor:     38	(311) Pair
+	Nbor:     41	(311) Pair
+	Nbor:      7	(311) Pair
+	Nbor:     21	(322) Pair
+	Nbor:     39	(422) Pair
+***
+
+Atom:     50 (CNtag=6)
+	Nbor:      6	(322) Pair
+	Nbor:     53	(322) Pair
+	Nbor:     52	(555) Pair
+	Nbor:     13	(322) Pair
+	Nbor:     31	(322) Pair
+	Nbor:     19	(322) Pair
+***
+
+Atom:     51 (CNtag=10)
+	Nbor:     15	(422) Pair
+	Nbor:     22	(311) Pair
+	Nbor:     26	(311) Pair
+	Nbor:     17	(311) Pair
+	Nbor:     30	(421) Pair
+	Nbor:     54	(311) Pair
+	Nbor:      3	(300) Pair
+	Nbor:     18	(300) Pair
+	Nbor:      4	(421) Pair
+	Nbor:     47	(422) Pair
+***
+
+Atom:     52 (CNtag=6)
+	Nbor:      6	(322) Pair
+	Nbor:     50	(322) Pair
+	Nbor:     13	(322) Pair
+	Nbor:     11	(555) Pair
+	Nbor:     19	(322) Pair
+	Nbor:     21	(322) Pair
+***
+
+Atom:     53 (CNtag=8)
+	Nbor:      6	(311) Pair
+	Nbor:     20	(311) Pair
+	Nbor:     10	(311) Pair
+	Nbor:      1	(422) Pair
+	Nbor:     27	(322) Pair
+	Nbor:     31	(422) Pair
+	Nbor:     19	(311) Pair
+	Nbor:     50	(322) Pair
+***
+
+Atom:     54 (CNtag=14)
+	Nbor:     10	(555) Pair
+	Nbor:     30	(421) Pair
+	Nbor:      3	(543) Pair
+	Nbor:     18	(543) Pair
+	Nbor:     51	(543) Pair
+	Nbor:     32	(543) Pair
+	Nbor:     47	(422) Pair
+	Nbor:     37	(433) Pair
+	Nbor:     29	(555) Pair
+	Nbor:     31	(555) Pair
+	Nbor:     19	(555) Pair
+	Nbor:     43	(555) Pair
+	Nbor:     27	(543) Pair
+	Nbor:     41	(422) Pair
+***
+
+Atom:     55 (CNtag=8)
+	Nbor:     41	(311) Pair
+	Nbor:     11	(311) Pair
+	Nbor:     21	(311) Pair
+	Nbor:     43	(311) Pair
+	Nbor:      2	(322) Pair
+	Nbor:     24	(422) Pair
+	Nbor:     45	(422) Pair
+	Nbor:     39	(322) Pair
+***
+
