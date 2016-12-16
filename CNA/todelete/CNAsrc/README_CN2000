@@ -1,0 +1,42 @@
+Author: Srinivasan Srivilliputhur (sgsrini@lanl.gov)
+------
+This is common neighbor analysis code developed by Srinivasan Srivilliputhur,
+initially at the University of Washington and later at the Los Alamos National
+Laboratory (USA).  
+0) To run the code use the script RunCNA.scr (ensure that it is executable).
+   See the SampleRuns directory for sample input, output, and CN*.log files.
+
+1) You can write code to read your own input and print your output.  
+   Currently, it supports my parallel code LASS's CK/SN format, SPaSM format,
+   and Mike Baskes's Dynamo format.  In the RunCNA.scr you specify -F baskes
+   to let the code know that the input is in Dynamo format. 
+   NOTE: To see various read/write functions see CNio.c file
+
+2) Details of CNA are in: 
+     a. Clarke and Jonsson, PRE 47, 3975 (1991).
+     b. Faken and Jonsson,  Comp. Mater. Sci., (1994)
+
+3) Specify a cutoff distance that is half-way between the first and second
+   nearest neighbors. For BCC systems, this is little beyond the 2nd nearest 
+   neighbors since the 1st (1NN) and 2nd nearest neighbors (2NN) are 
+   only ~10% apart. To eliminate thermal noise, minimize the system for about 
+   100 iterations and analyze the output *.r file using CNA.
+
+4) Since we know what type of atoms (fcc, hcp, etc.) are in ground state 
+   structure, another approach to selecting the cutoff distance is to 
+   systematically rcut and determine the number of ground state atoms vs rcut.
+   Choose rcut that yields the maximum number of atoms that has same symmetry 
+   as ground state atoms.
+
+5) In Summary:
+   ----------
+     a. An atom is FCC if its coordination number (CN) is 12 and all these 
+	neighbors are 421 type pairs (i.e. 12 421 pairs for each FCC atom)
+     b.	HCP atom has CN=12, and these are divided as six 421 and 6 422 pairs
+     c. BCC atom has CN=14 (8 1NN and 6 2NN) divided among eight 666 and 
+	six 444 pairs.
+     d. Icosahedral order means 13 (555) pairs and/or large number of (433), 
+	(544) pairs.
+
+6) Currently I've included AlFcc.r, AlBcc.r, AlHcp.atm as sample atoms files
+   in the Dynamo Format

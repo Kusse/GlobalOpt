@@ -19,7 +19,7 @@ ADD_EXECUTABLE(${GARUN} ${GA_SRC})
 #####################################################
 TARGET_LINK_LIBRARIES(${GARUN} ${LBFGSBLIB})
 TARGET_LINK_LIBRARIES(${GARUN} ${OBJLIB})
-TARGET_LINK_LIBRARIES(${GARUN} ${ACSTEMLIB})
+#TARGET_LINK_LIBRARIES(${GARUN} ${ACSTEMLIB})
 # Uncomment if you need to link to BLAS and LAPACK
 #TARGET_LINK_LIBRARIES(${FOOEXE} ${BLAS_LIBRARIES}
 #                                ${LAPACK_LIBRARIES}

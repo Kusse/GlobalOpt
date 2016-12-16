@@ -62,13 +62,13 @@ SET(LIB ${CMAKE_SOURCE_DIR}/lib)
 SET(BIN ${CMAKE_SOURCE_DIR}/bin)
 SET(SRC_GA ${SRC}/GA)
 SET(SRC_LBFGSB ${SRC}/LBFGSB)
-SET(SRC_OBJ ${CMAKE_SOURCE_DIR}/Benchmarks/Objective)
-SET(SRC_ACSTEM ${CMAKE_SOURCE_DIR}/Benchmarks/ACSTEM)
+SET(SRC_OBJ  ${CMAKE_SOURCE_DIR}/Benchmarks)
+#SET(SRC_ACSTEM ${CMAKE_SOURCE_DIR}/Benchmarks/ACSTEM)
 # Have the .mod files placed in the lib folder
 SET(CMAKE_Fortran_MODULE_DIRECTORY ${LIB})
 
 ADD_SUBDIRECTORY(${SRC_OBJ} ${LIB})
-ADD_SUBDIRECTORY(${SRC_ACSTEM})
+#ADD_SUBDIRECTORY(${SRC_ACSTEM})
 # The source for the BAR library and have it placed in the lib folder
 ADD_SUBDIRECTORY(${SRC_LBFGSB} )
 # The source for the FOO binary and have it placed in the bin folder

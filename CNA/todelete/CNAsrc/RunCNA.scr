@@ -1,0 +1,9 @@
+#!/bin/sh
+
+#inFile="AlFcc.r"
+inFile="Au55_chiral_min.r"
+######################################
+#outFil="AlFcc.CN"
+outFile="Au55_chiral_min.CN"
+rcut="3.55"
+cnA.exc -v -R $rcut -I $inFile -F baskes -O $outFile

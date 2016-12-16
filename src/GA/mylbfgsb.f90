@@ -1,18 +1,13 @@
 
 MODULE mylbfgsb
-!    subroutine LBFGS_BC(func, dfunc, x, lb, ub, fx, gx, FEV, GEV)
-!        use data_type
-!        use config, only: LBFGS_Memory,LBFGSB_Factr, gradient_tolerance, &
-!        function_tolerance, max_gradient_evaluations, max_iterations, iPrint
     IMPLICIT NONE
     INTEGER, PARAMETER :: DP=KIND(1.0D0)
 CONTAINS
     SUBROUTINE lbfgsbc(IND1, IND2, gtol)
-!        use MYDATA_TYPE, only: DP, I4B
         USE COMMONS, ONLY: NDIM, LOWERBOUND, UPPERBOUND, &
 		LBFGS_FUNCALLS,  LBFGS_MEMORY, IPRINT
         USE OBJECTIVE, ONLY: OBJ_FUNC
-!        USE ACSTEM_OBJECTIVE, ONLY: ACSTEM_FUNC
+!        USE ACSTEM, ONLY: STEM_OBJ_FUNC
         USE GA_POPULATION, ONLY: MYGA_POP_ENERGY, MYGA_POP_COORDS, &
 		MYGA_POP_MAXFORCE, MYGA_POP_COORDS
         IMPLICIT NONE
@@ -48,7 +43,6 @@ CONTAINS
                     f, g, factr, pgtol, wa, iwa, task, iPrint, csave, lsave, isave, dsave)
                 IF (task(1:2) .EQ. 'FG') THEN
                     CALL OBJ_FUNC(X, F, G, NDIM)
-                !    NFG = NFG + 1
 		    LBFGS_FUNCALLS = LBFGS_FUNCALLS + 1
                 END IF
                 IF (task(1:5) .EQ. 'NEW_X') THEN
@@ -72,9 +66,9 @@ CONTAINS
                     IF(MAXVAL(ABS(G)) < GTOL) EXIT
                 ENDIF
             ENDDO
-           ! MYGA_POP_COORDS(:, I) = X
-           ! MYGA_POP_ENERGY(I) = F
-	   ! MYGA_POP_MAXFORCE(I) = MAXVAL(G)
+            MYGA_POP_COORDS(:, I) = X
+            MYGA_POP_ENERGY(I) = F
+	    MYGA_POP_MAXFORCE(I) = MAXVAL(G)
         ENDDO
         DEALLOCATE (iwa, wa)
     END  SUBROUTINE lbfgsbc

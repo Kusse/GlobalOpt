@@ -1,0 +1,23 @@
+module acstem_parameters
+    implicit none
+    ! ATOMIC Cluster parameters
+    INTEGER, PARAMETER :: NATOMS = 55                                   ! NUMBER OF ATOMS
+    INTEGER, PARAMETER :: ATOMIC_NUM = 79                               ! ATOMIC NUMBER OF THE ATOMIC SPECIES
+    REAL(KIND=8), PARAMETER :: LATTICE_CONSTANT = 4.065D0               ! ANGSTROMS
+    REAL(KIND=8), PARAMETER :: ATOMIC_RADIUS = 1.36D0                   ! ANGSTROMS
+
+    ! Image parameters
+    INTEGER, PARAMETER :: NUM_IMAGE_ROWS = 128                          ! PIXLES
+    INTEGER, PARAMETER :: NUM_IMAGE_COLS = 128                          ! PIXLES
+    REAL(KIND=8), PARAMETER :: IMAGE_WIDTH = 4*NATOMS**(1.0D0/3.0D0)    !20.0D0       ! ANGSTROMS
+    REAL(KIND=8), PARAMETER :: IMAGE_HEIGHT = 4*NATOMS**(1.0D0/3.0D0)   !20.0D0      ! ANGSTROMS
+    REAL(KIND=8), PARAMETER :: OFFSET = 0.50D0*ATOMIC_RADIUS
+    REAL(KIND=8), PARAMETER, DIMENSION(3) :: LOWERBOUND=-IMAGE_WIDTH/2.0D0 - OFFSET  ! (/ XLOW, YLOW, ZLOW /)
+    REAL(KIND=8), PARAMETER, DIMENSION(3) :: UPPERBOUND=IMAGE_WIDTH/2.0D0 + OFFSET  ! (/ XHIGH, YHIGH, ZHIGH /)
+    ! Files and directories
+    CHARACTER(LEN=256), PARAMETER :: EXPERIMENTAL_IMAGE_FILE = ""
+end module acstem_parameters
+
+
+!    REAL(KIND=8), DIMENSION(2), PARAMETER :: XBOUND = (/-10.0D0, 10.0D0/)
+!    REAL(KIND=8), DIMENSION(2), PARAMETER :: YBOUND = XBOUND

@@ -1,0 +1,7 @@
+#ENABLE_LANGUAGE(Fortran)
+SET(POT_SRC     ${SRC_OBJ}/Gupta.f
+                ${SRC_OBJ}/ljgh.f90
+		${SRC_OBJ}/modhess.f90
+                ${SRC_OBJ}/morsegh.f90
+)
+ADD_LIBRARY(${POTLIB} STATIC ${POT_SRC})

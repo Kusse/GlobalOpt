@@ -1,2 +1,0 @@
-/usr/bin/ar cr libOBJ.a  CMakeFiles/OBJ.dir/Gupta.f.o CMakeFiles/OBJ.dir/lj.f90.o CMakeFiles/OBJ.dir/modhess.f90.o CMakeFiles/OBJ.dir/morse.f90.o CMakeFiles/OBJ.dir/objective.f90.o
-/usr/bin/ranlib libOBJ.a
